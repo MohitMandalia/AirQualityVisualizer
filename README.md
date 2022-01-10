@@ -10,3 +10,7 @@ using MVVM , DataBinding, Hilt, AACharts, Kotlin Coroutines, Ktor for websocket 
 </p>
 
 
+## Download
+
+Download [APK](https://github.com/MohitMandalia/AirQualityVisualizer/releases/tag/v1.0-alpha) file
+
